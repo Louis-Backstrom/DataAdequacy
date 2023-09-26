@@ -47,3 +47,11 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Data files
+/Data/*
+!/Data/TaxonomyFixerMaster.xlsx
+!/Data/TraitMaster.xlsx
+/Plots/Species/*
+
+Data-Paths.R
