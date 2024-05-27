@@ -1,0 +1,1 @@
+**This repository contains code for** Backstrom, L. J., Callaghan, C. T., Leseberg, N. P., Sanderson, C., Fuller, R. A., & Watson, J. E. (2024). Assessing adequacy of citizen science datasets for biodiversity monitoring. _Ecology and Evolution_, 14(2), e10857.
